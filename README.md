@@ -8,3 +8,5 @@ Our book will be released one chapter at a time.
 
 # Version
 * 1.0.0 -> Chapter one
+* 1.0.1 -> Chapter one, fixing typo.
+* 1.0.2 -> Chapter one, fixing typo.
