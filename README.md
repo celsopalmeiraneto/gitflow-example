@@ -10,3 +10,5 @@ Our book will be released one chapter at a time.
 * 1.0.0 -> Chapter one
 * 1.0.1 -> Chapter one, fixing typo.
 * 1.0.2 -> Chapter one, fixing typo.
+* 1.1.0 -> Chapter one, Introducing new char.
+* 2.0.0 -> Chapter Two, The Girl.
